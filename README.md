@@ -22,7 +22,7 @@ The FAT is an array of 4-byte integers used to manage file block allocations.
 This project involves three main tasks:
 
 ### Task 1: stat360fs.c
-Create `stat360fs.c` to extract and display information from a 360fs file system image. This includes reading the superblock and retrieving FAT entries.
+Create `stat360fs.c` to extract and display information from a 360fs file system image. This includes reading the superblock and retrieving all the FAT entries.
 
 ### Task 2: ls360fs.c
 Develop `ls360fs.c` to generate a listing of the root directory for a 360fs file system image in a specific format.
